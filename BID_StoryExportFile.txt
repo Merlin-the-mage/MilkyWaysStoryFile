@@ -881,25 +881,25 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 17.09.2023 11:27:01_7²MainText²It will be advantageous for us to bring this system back online. The used transport platform should be still in the workshop to the north.
 17.09.2023 11:27:01_8²MainText²And I can just enable it?
 17.09.2023 11:27:01_9²MainText²You should be able to access the platform without problems. The system was never directly connected to the main frame.
-17.09.2023 11:27:01_10²MainText²Command the platform to bring you back to the development office once you acquire access to the platform.
-17.09.2023 11:27:01_11²MainText²Okay, I'll do it.
-17.09.2023 11:27:01_12²MainText²Look out for a hover platform with a seat on it in the workshop.
+17.09.2023 11:27:01_10²MainText²You can command the platform to bring you back to the development office once you acquire access to the platform.
+17.09.2023 11:27:01_11²MainText²Okay, I will do it.
+17.09.2023 11:27:01_12²MainText²Look out for a hover platform with a seat on it next to the workshop.
 17.09.2023 11:27:01_13²MainText²...
 17.09.2023 11:57:06_0²MainText²Okay... this...
 17.09.2023 11:57:06_1²MainText²Ah, yes. I can get into the system, but it needs a key to start.
 17.09.2023 11:57:06_2²MainText²How old-school is that...
-17.09.2023 11:57:06_3²MainText²Maybe I find the key in the workshop right next to me.
+17.09.2023 11:57:06_3²MainText²Maybe I can find the key in the workshop right next to me.
 17.09.2023 11:57:06_4²MainText²...
-25.09.2023 11:52:28_0²MainText²The transport platform is back on the charging station.
-25.09.2023 11:52:28_1²MainText²Very good, it will recharge now and you can use it to transport yourself from charging station to charging station now.
-25.09.2023 11:52:28_2²MainText²But you may need to register them first.
+25.09.2023 11:52:28_0²MainText²The transport platform is now back on the charging station.
+25.09.2023 11:52:28_1²MainText²Very good, it will now recharge. You can use the platform to transport yourself from charging station to charging station any time.
+25.09.2023 11:52:28_2²MainText²But you will need to register each station the first time, by walking there and calling the platform.
 25.09.2023 11:52:28_3²MainText²Yes, okay but... the gynoid in the workshop added restraints to it. Can you disable them?
-25.09.2023 11:52:28_4²MainText²This is intriguing, the boundaries have been clearly completely shattered.
-25.09.2023 11:52:28_5²MainText²But, yes, I will disable it for now. You can use the transport platform without using the restraints.
-25.09.2023 16:06:43_0²MainText²And... I really need the collar. The gynoid in the workshop was... testing me again.
+25.09.2023 11:52:28_4²MainText²This is intriguing, the boundaries have obviously been completely shattered.
+25.09.2023 11:52:28_5²MainText²But, yes, I will disable them for now. You then can use the transport platform without using the restraints.
+25.09.2023 16:06:43_0²MainText²And... I really need the collar. The gynoid in the workshop... tested me again.
 25.09.2023 16:06:43_1²MainText²It's almost finished, I was able to tamper with the protocol, but I need a few more hours.
 25.09.2023 11:52:28_6²MainText²Then... What would be next?
-25.09.2023 11:52:28_7²MainText²For now, I do recommend to eat and go to bed. Human bodies need food and sleep to survive.
+25.09.2023 11:52:28_7²MainText²For now, I do recommend you eat and go to bed. Human bodies need food and sleep to survive.
 25.09.2023 11:52:28_8²MainText²I will prepare something to eat.
 25.09.2023 11:52:28_9²MainText²Okay.
 25.09.2023 11:52:28_10²MainText²I will serve the food on the table in the hallway. You may want to take a shower in the meantime.
@@ -909,10 +909,10 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.09.2023 16:06:43_4²MainText²But...ahm...I really need my hands for this.
 25.09.2023 16:06:43_5²MainText²I should ask Luca to remove the restraints from me.
 25.09.2023 16:06:43_6²MainText²...
-25.09.2023 16:06:43_7²MainText²At least we have warm water with the power from the relay station.
+25.09.2023 16:06:43_7²MainText²At least we now have warm water with the power from the relay station.
 30.09.2023 15:20:46_0²MainText²...
 30.09.2023 15:20:46_1²MainText²Freedom!
-25.09.2023 16:06:43_8²MainText²Warm water... yes... much of it!
+25.09.2023 16:06:43_8²MainText²Warm water... yes... so much of it!
 25.09.2023 16:06:43_9²MainText²Ah... nice...
 25.09.2023 16:06:43_10²MainText²Such a nice feeling... mhmm...
 01.10.2023 16:03:49_0²MainText²Oh, right. I still have my little toy inside.
@@ -926,13 +926,13 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 25.09.2023 16:06:43_13²MainText²Ohn...
 25.09.2023 16:06:43_14²MainText²Mhn...
 25.09.2023 16:06:43_15²MainText²Wa.. what...
-25.09.2023 16:06:43_16²MainText²i.. rather do not think why i did this now.
+25.09.2023 16:06:43_16²MainText²I.. would rather do not think about why I did this.
 25.09.2023 16:06:43_17²MainText²...
 30.09.2023 15:50:34_0²MainText²Feels good to be clean again.
 25.09.2023 16:06:43_18²MainText²I should see if Luca found something to eat.
 25.09.2023 16:06:43_19²MainText²...
-30.09.2023 17:07:14_0²MainText²That's a lot of food you've laid out for me there.
-30.09.2023 17:07:14_1²MainText²It should be enough to satiate your lust. Of course, I don't expect you to take it all.
+30.09.2023 17:07:14_0²MainText²That's a lot of food you've laid out for me here.
+30.09.2023 17:07:14_1²MainText²It should be enough to satiate your lust. Of course, I don't expect you to eat it all.
 01.10.2023 13:24:37_0²MainText²But before you sit down, please let me remove the mouth spreader!
 01.10.2023 13:24:37_1²MainText²...
 01.10.2023 13:24:37_2²MainText²Very good.
@@ -941,26 +941,26 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 30.09.2023 17:07:14_4²MainText²It looks good.. very good.
 30.09.2023 17:07:14_5²MainText²Fortunately, the food in the development office was still deep frozen. The cooling system did not fail.
 01.10.2023 11:30:29_0²MainText²Then, I hope you do not mind.
-01.10.2023 11:30:29_1²MainText²Of course not, please devour. I will clean everything afterwards.
+01.10.2023 11:30:29_1²MainText²Of course not, please eat. I will clean everything afterwards.
 01.10.2023 11:30:29_2²MainText²You may sleep afterwards in the living quarters of this office. For now, I will continue to work on the collar.
 01.10.2023 11:30:29_3²MainText²Alright!
 01.10.2023 11:30:29_4²MainText²Chicken.. mhnn...
-01.10.2023 11:30:29_5²MainText²Apples and fruits... wonder where she got that from.
+01.10.2023 11:30:29_5²MainText²Apples and fruits... I wonder where she got that from?
 01.10.2023 11:30:29_6²MainText²....
-01.10.2023 11:30:29_7²MainText²Oh yes.. that is enough now.
-01.10.2023 11:30:29_8²MainText²Then, I go to sleep for now.
-01.10.2023 11:30:29_9²MainText²I just fell into the first bed in the living quarters. I bet it is way more comfortable than my cockpit chair.
+01.10.2023 11:30:29_7²MainText²Oh yes.. that is enough for now.
+01.10.2023 11:30:29_8²MainText²Now, I will go to sleep.
+01.10.2023 11:30:29_9²MainText²I will just fall into the first bed in the living quarters. I bet it is way more comfortable than my cockpit chair.
 01.10.2023 11:30:29_10²MainText²...
 01.10.2023 11:30:29_11²MainText²I am still overriding the programming on the collar you found, this will take a few hours.
-01.10.2023 11:30:29_12²MainText²Please slumber for now and rejuvenate, I will most likely be finished once you are through sleeping.
-01.10.2023 11:30:29_13²MainText²Okay, then... I just go to sleep.
+01.10.2023 11:30:29_12²MainText²Please slumber for now, and rejuvenate, I will most likely be finished once you are through sleeping.
+01.10.2023 11:30:29_13²MainText²Okay, then... I will just go to sleep.
 01.10.2023 11:30:29_14²MainText²...
 01.10.2023 16:03:49_12²MainText²Luca is right, I am really tired....
 02.10.2023 13:49:19_0²MainText²And I am also bound and restrained. I.. I should get out of this at least.
 02.10.2023 13:49:19_1²MainText²Need to ask Luca for this.
 02.10.2023 13:49:19_2²MainText²...
 01.10.2023 16:03:49_13²MainText²...humping around all the time.
-01.10.2023 16:20:49_0²MainText²At least the bed is way more comfy than my chair in my spaceship.
+01.10.2023 16:20:49_0²MainText²At least the bed is way more comfy than the chair in my spaceship.
 01.10.2023 16:20:49_1²MainText²Oh...yes...way more comfortable.
 01.10.2023 16:20:49_2²MainText²So cozy...
 01.10.2023 16:20:49_3²MainText²Yes... mhmm...
@@ -971,7 +971,7 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.10.2023 11:45:42_0²MainText²To only feel pleasure and no pain is surely the way to go, right?
 02.10.2023 11:45:42_1²MainText²Please... on the lips...
 02.10.2023 11:45:42_2²MainText²Again?
-02.10.2023 11:45:42_3²MainText²You are always a insatiable vixen.
+02.10.2023 11:45:42_3²MainText²You are always such an insatiable vixen.
 02.10.2023 11:45:42_4²MainText²Mhnngg...
 02.10.2023 11:45:42_5²MainText²..nhnn...
 02.10.2023 11:45:42_6²MainText²Ohh... what...
@@ -979,22 +979,22 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 02.10.2023 13:49:19_3²MainText²What a sensual... dream...
 02.10.2023 13:49:19_4²MainText²I slept like a stone.
 02.10.2023 13:49:19_5²MainText²Oh..
-07.10.2023 13:10:10_0²MainText²How long have I dreamt?
+07.10.2023 13:10:10_0²MainText²How long have I been dreaming?
 07.10.2023 13:10:10_1²MainText²...
-07.10.2023 13:10:10_2²MainText²8 hours... yes...
+07.10.2023 13:10:10_2²MainText²Oh,8 hours... yes...
 07.10.2023 13:10:10_3²MainText²...
 07.10.2023 13:10:10_4²MainText²I should get something for breakfast.
-07.10.2023 13:10:10_5²MainText²Hoping the fridge has something special for me.
+07.10.2023 13:10:10_5²MainText²I’m hoping the fridge has something special for me.
 07.10.2023 13:10:10_6²MainText²...
 07.10.2023 13:10:10_7²MainText²...
-07.10.2023 13:10:10_8²MainText²For breakfast, yes of course. Please pick what you like.
-07.10.2023 13:10:10_9²MainText²If you want to, I can also cook something special for you.
+07.10.2023 13:10:10_8²MainText²Something for breakfast, yes of course. Please pick what you like.
+07.10.2023 13:10:10_9²MainText²If you want, I can also cook something special for you.
 07.10.2023 13:10:10_10²MainText²No, no... never mind. I just eat some bread or whatever I can find.
 07.10.2023 13:10:10_11²MainText²We also have eggs.
 07.10.2023 13:10:10_12²MainText²This is a good idea. I'll keep it in mind.
 07.10.2023 13:10:10_13²MainText²As you wish.
 07.10.2023 13:10:10_14²MainText²As you wish.
-28.07.2023 13:18:41_0²MainText²|TriggerVnEventHostChar| , do you have time ?
+28.07.2023 13:18:41_0²MainText²|TriggerVnEventHostChar|, do you have time?
 09.09.2023 15:05:45_23²MainText²Add to inventory if not already in stock.
 28.07.2023 16:03:25_0²MainText²Luca
 12.11.2023 11:55:54_0²MainText²Milu
@@ -1042,12 +1042,12 @@ Sat Sep 29 15:37:15 GMT+0200 2018_1²MainText²This is a test if everything work
 28.07.2023 16:51:31_3²MainText²Alright, thank you for the insight.
 28.07.2023 16:51:31_4²MainText²MISSING
 28.07.2023 16:51:31_5²MainText²Of course, I played together with them.
-28.07.2023 16:51:31_6²MainText²First there is Ivy Neomean, a bio engineer who took care of the research of new plants found on this planet. A rather very pioneering work since the main research team was scheduled to arrive a year later.
+28.07.2023 16:51:31_6²MainText²First there is Ivy Neomean, a bio engineer who took care of the research of new plants found on this planet. Very pioneering work since the main research team was scheduled to arrive a year later.
 28.07.2023 16:51:31_7²MainText²Second, there is Alexia Sangudin. She was ordered to keep the necessary support and energy facilities running, she was often seen together with Ivy since there was barely anything to repair.
 28.07.2023 16:51:31_8²MainText²The last one is Doctor Lillian Ongaster, she is the former head of development for this facility.
 28.07.2023 16:51:31_9²MainText²And all of them are fine?
-28.07.2023 16:51:31_10²MainText²Yes, they are in a good state currently. I am not able to detect everyone of them but the AI made sure that I know their current body state.
-28.07.2023 16:51:31_11²MainText²This sounds very weird, and I do not wish to find any unpleasant surprises if the AI is lying to you about their current state.
+28.07.2023 16:51:31_10²MainText²Yes, they are currently in a good state. I am not able to detect the location of everyone, but the AI made sure that I know their current state of health.
+28.07.2023 16:51:31_11²MainText²This sounds very weird. I do not wish to find any unpleasant surprises if the AI is lying to you about their current health.
 28.07.2023 16:51:31_12²MainText²This would trigger an immediate response from the government. Even the AI would not be able to keep the emergency signal from sending. All human body states are connected to a watchdog.
 28.07.2023 16:51:31_13²MainText²If one of the humans on this planet would die, the watchdog would trigger and an emergency signal would be sent automatically after 2 hours.
 28.07.2023 16:51:31_14²MainText²Not even the main AI can stop this, only if she would destroy all the communication antennas on the planet as well as the satellites in orbit.
